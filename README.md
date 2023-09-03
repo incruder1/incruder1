@@ -1,4 +1,4 @@
-	# Hey, I'm Dev Johri👋
+## Hey, I'm Dev Johri👋
 
 I'm a final year student pursuing a 5 Year Integrated Course Btech [IT]+ MBA  at ABV-IIITM, GWALIOR. Passionate about Coding, Reading .I'm eager to learn and contribute to exciting projects in the field of Information Technology. I believe in the power of technology to solve real-world problems and make a positive impact on society.
 
@@ -7,16 +7,6 @@ I'm a final year student pursuing a 5 Year Integrated Course Btech [IT]+ MBA  at
 **Programming Languages:** C++, HTML,CSS, JAVASCRIPT.
 - **Web Development:** MERN [MONGODB, EXPRESSJS, REACTJS, NODEJS] 
 - **Software Tools:** [VSCode, Atom, Sublime]
-
-## 💼 Experience
-
-- **Web developer Volunteer** at [IEEE Student Branch ABV-IIITM Gwalior] - [Oct 2020 - Dec 2021]
- • Maintained and updated IEEE Student Branch, ABV IIITM’s official website with over 1500 monthly users.
-• Developed an Events page component using ReactJS and Material UI to display upcoming events.
-• Deployed the website on Heroku for availability to users.
-• Improved user experience and engagement on the website.
-• Technologies Used: ReactJS, MaterialUI, Bootstrap, GitHub, Heroku, NodeJ
-
 
 
 ## 🚀 Projects
