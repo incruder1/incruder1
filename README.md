@@ -7,6 +7,7 @@ I'm a final year student pursuing a 5 Year Integrated Course Btech [IT]+ MBA  at
 **Programming Languages:** C++, HTML,CSS, JAVASCRIPT.
 - **Web Development:** MERN [MONGODB, EXPRESSJS, REACTJS, NODEJS] 
 - **Software Tools:** [VSCode, Atom, Sublime]
+- **Cloud:** [AWS]
 
 
 ## 🚀 Projects
