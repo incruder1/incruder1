@@ -1,6 +1,6 @@
 ## Hey, I'm Dev Johri👋
 
-I'm a final year student pursuing a 5 Year Integrated Course Btech [IT]+ MBA  at ABV-IIITM, GWALIOR. Passionate about Coding, Reading .I'm eager to learn and contribute to exciting projects in the field of Information Technology. I believe in the power of technology to solve real-world problems and make a positive impact on society.
+Final year IT undergraduate (passing year 2024) at IIIT Gwalior, India. Passionate about Coding and reading.I'm eager to learn and contribute to exciting projects in the field of Information Technology. I believe in the power of technology to solve real-world problems and make a positive impact on society.
 
 ## 🔧 Skills
 
@@ -14,7 +14,7 @@ I'm a final year student pursuing a 5 Year Integrated Course Btech [IT]+ MBA  at
 
 Here are some of the projects I've worked on:
 
--  Ecommerce Application - a Full stack Ecommerce Website MERN stack web
+-  E-commerce Application - a Full stack Ecommerce Website MERN stack web
 application, leveraging JWT authentication, Implemented Bcrypt encryption for data security and utilized
 Node.js, Express.js, and ReactJS for seamless server-side and client-side implementation. Integrated PayPal payment gateway API for seamless payment processing with Admin section to add, delete and update the
 products. 
@@ -31,7 +31,7 @@ seamless online experience
 
 ## 🌟 Achievements
 
--• TREASURER at IEEE STUDENT BRANCH , ABV-IIITM.
+-• TREASURER at IEEE STUDENT BRANCH, ABV-IIITM.
 • Volunteer in MARKTETTING AND PUBLIC RELATION at IEEE STUDENT BRANCH , ABV-IIITM .
 • Achieved pre-finalist status in the 2019 IEEE Hexagon competition
 
