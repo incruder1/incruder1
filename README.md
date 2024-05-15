@@ -22,7 +22,7 @@ Node.js, Express.js, and ReactJS for seamless server-side and client-side implem
 products.
 Deployed Link:- - https://ecommerce-application-z5pi.onrender.com/
 
-- YOUTUBE BOOKMARK EXTENSION - N utilizing JavaScript, enhancing user browsing. This extension
+- YOUTUBE BOOKMARK EXTENSION - utilizing JavaScript, enhancing user browsing. This extension
 streamlines video bookmarking, simplifying the process, and provides efficient access to saved content for a
 seamless online experience
   -[https://github.com/incruder1/Youtube-Bookmark-Chrome-Extension]
