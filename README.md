@@ -1,11 +1,17 @@
-## Hey, I'm Dev Johri👋
+# Hey, I'm Dev Johri👋 
+## Status:- Currently Looking For Full Time SDE Opportunities👨🏻‍🏫
 
-Final year IT undergraduate (2024) at IIIT Gwalior, India. Passionate about Coding and reading. I'm eager to learn and contribute to exciting projects in Information Technology. I believe in the power of technology to solve real-world problems and positively impact society.
+
+CSE Grad(2024) @IIIT Gwalior, India. Passionate about Coding and reading. I'm eager to learn and contribute to exciting projects. I believe in the power of technology to solve real-world problems and positively impact society.
+
+##🎓 Internships
+1. SDE Intern @Hashedin By Deloitte [ May 2024- Present]
+2. SDE Intern @OutShade Digital Media [Aug 2022- Jan 2023]
 
 ## 🔧 Skills
 
-**Programming Languages:** C++, JAVASCRIPT.
-- **Library/ Framework:** ReactJS, Node.JS, MongoDB, PostgreSQL, Next.JS, TypeScript.   
+**Programming Languages:** C++, JAVASCRIPT, TypreScript, JAVA.
+- **Library/ Framework:** ReactJS, Node.JS, Next.JS, Java SpringBoot.   
 
 
 ## 🚀 Projects
@@ -13,7 +19,6 @@ Final year IT undergraduate (2024) at IIIT Gwalior, India. Passionate about Codi
 Here are some of the projects I've worked on:
 
 - Notion Clone:- Note Making application with real-time database sync, dynamic light/dark mode, and secure authentication. Expertise includes efficient file management, infinite nested documents, a trash can for soft deletes, and publishing to the web.
-
   Deployed Link:- -https://notion-clone-incruder1.vercel.app
 
 -  E-commerce Application - a Full stack e-commerce website MERN stack web
@@ -29,7 +34,7 @@ seamless online experience
   
 ## 📚 Education
 
--Btech+ MBA   at IIIT, Gwalior.
+-InteGrated Btech from IIIT, Gwalior.
 
 
 ## 🌟 Achievements
@@ -40,10 +45,8 @@ seamless online experience
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via:
-
- 
-- LinkedIn: [https://www.linkedin.com/in/dev-johri-707a91138/]
- 
+Feel free to reach out to me via: 
+- LinkedIn: [https://www.linkedin.com/in/devjohri/]
+-Email:- Dev.johri23@gmail.com 
 
 Let's connect and collaborate on exciting projects!
