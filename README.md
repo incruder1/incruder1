@@ -4,7 +4,7 @@
 
 CSE Grad(2024) @IIIT Gwalior, India. Passionate about Coding and reading. I'm eager to learn and contribute to exciting projects. I believe in the power of technology to solve real-world problems and positively impact society.
 
-##🎓 Internships
+## 🎓 Internships
 1. SDE Intern @Hashedin By Deloitte [ May 2024- Present]
 2. SDE Intern @OutShade Digital Media [Aug 2022- Jan 2023]
 
