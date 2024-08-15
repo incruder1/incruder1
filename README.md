@@ -18,14 +18,15 @@ CSE Grad(2024) @IIIT Gwalior, India. Passionate about Coding and reading. I'm ea
 
 Here are some of the projects I've worked on:
 
+- Patient Management System:-developed a comprehensive patient management system that streamlines the appointment booking process for patients while providing administrators with efficient tools to manage, confirm, and cancel appointments. The application allows patients to easily register and create personal profiles, enabling them to book multiple appointments with doctors at their convenience. Administrators can view and handle all scheduled appointments, confirm appointment times, and send SMS notifications to patients to confirm their appointment details. <br>
+Deploye link:- https://pns-kajfovnsa-incruder1s-projects.vercel.app/ <br>
+Github repo:-https://github.com/incruder1/CarePulse--Patient-Management-System
+  
+
 - Notion Clone:- Note Making application with real-time database sync, dynamic light/dark mode, and secure authentication. Expertise includes efficient file management, infinite nested documents, a trash can for soft deletes, and publishing to the web.<br>
   Deployed Link:- -https://notion-clone-incruder1.vercel.app
 
--  E-commerce Application - a Full stack e-commerce website MERN stack web
-application, leveraging JWT authentication, Implemented Bcrypt encryption for data security and utilized
-Node.js, Express.js, and ReactJS for seamless server-side and client-side implementation. Integrated PayPal payment gateway API for seamless payment processing with Admin section to add, delete and update the
-products.<br>
-Deployed Link:- - https://ecommerce-application-z5pi.onrender.com/
+ 
 
 - YOUTUBE BOOKMARK EXTENSION - utilizing JavaScript, enhancing user browsing. This extension
 streamlines video bookmarking, simplifying the process, and provides efficient access to saved content for a
