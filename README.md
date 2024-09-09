@@ -25,8 +25,7 @@ Github repo:-https://github.com/incruder1/CarePulse--Patient-Management-System
 
 - Notion Clone:- Note Making application with real-time database sync, dynamic light/dark mode, and secure authentication. Expertise includes efficient file management, infinite nested documents, a trash can for soft deletes, and publishing to the web.<br>
   Deployed Link:- -https://notion-clone-incruder1.vercel.app
-  youtube link:- https://youtu.be/IDK43DC_y6s
- 
+  youtube link:- https://youtu.be/-L2nR86k4Dk
 
 - YOUTUBE BOOKMARK EXTENSION - utilizing JavaScript, enhancing user browsing. This extension
 streamlines video bookmarking, simplifying the process, and provides efficient access to saved content for a
