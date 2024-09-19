@@ -18,6 +18,10 @@ CSE Grad(2024) @IIIT Gwalior, India. Passionate about Coding and reading. I'm ea
 
 Here are some of the projects I've worked on:
 
+- Module Mapper:- developed a tool that enables developers to efficiently scan codebases from any branch, GitHub repository, or local folder, generating visual representations of the code structure and project dependencies. This tool helps streamline the process of understanding and navigating complex codebases, making it easier for developers to identify relationships and dependencies within the project. <br>
+  Youtube Link:- https://www.youtube.com/watch?v=T3P_jchsP-0 <br>
+  Github Repo:- https://github.com/incruder1/module-mapper
+
 - Patient Management System:-developed a comprehensive patient management system that streamlines the appointment booking process for patients while providing administrators with efficient tools to manage, confirm, and cancel appointments. The application allows patients to easily register and create personal profiles, enabling them to book multiple appointments with doctors at their convenience. Administrators can view and handle all scheduled appointments, confirm appointment times, and send SMS notifications to patients to confirm their appointment details. <br>
 Deploye link:- https://pns-kajfovnsa-incruder1s-projects.vercel.app/ <br>
 Github repo:-https://github.com/incruder1/CarePulse--Patient-Management-System
