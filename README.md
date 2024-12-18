@@ -17,9 +17,10 @@ CSE Grad(2024) @IIIT Gwalior, India. Passionate about Coding and reading. I'm ea
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
--AI Mock Interview Helper:- An advanced platform leveraging AI to provide job seekers with tailored interview experiences, comprehensive feedback, and actionable insights. Customize sessions for specific roles, access a diverse question bank, and review past interviews easily. Designed to enhance confidence and readiness for real-world interviews.
-Deployed Link:- https://interview-helper-iota.vercel.app/
-YT link:- https://www.youtube.com/watch?v=rAv_Xaswdz8
+
+- AI Mock Interview Helper:- An advanced platform leveraging AI to provide job seekers with tailored interview experiences, comprehensive feedback, and actionable insights. Customize sessions for specific roles, access a diverse question bank, and review past interviews easily. Designed to enhance confidence and readiness for real-world interviews. <br>
+Deployed Link:- https://interview-helper-iota.vercel.app/ <br>
+YT link:- https://www.youtube.com/watch?v=rAv_Xaswdz8 <br>
 
 - Module Mapper:- developed a tool that enables developers to efficiently scan codebases from any branch, GitHub repository, or local folder, generating visual representations of the code structure and project dependencies. This tool helps streamline the process of understanding and navigating complex codebases, making it easier for developers to identify relationships and dependencies within the project. <br>
   Youtube Link:- https://www.youtube.com/watch?v=T3P_jchsP-0 <br>
