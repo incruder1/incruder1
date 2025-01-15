@@ -42,7 +42,7 @@ seamless online experience
   
 ## 📚 Education
 
--Integrated Btech from IIIT, Gwalior.
+-Integrated Btech [IT] from IIIT, Gwalior.
 
 
 ## 🌟 Achievements
