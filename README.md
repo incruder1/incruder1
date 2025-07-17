@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 Actively seeking a full-time Software Development Engineer (SDE) role!<br>🌱 Currently diving into the realms of AI & Blockchain<br>💬 Ask me about MERN, Django, System Design, or scaling APIs<br>⚡ Fun Fact: I turn coffee ☕ into code faster than CI/CD pipelines!
+👯 Software Development Engineer-1  at fast Paced StartUp! (March 25- Now) <br>🌱 Currently diving into the realms of AI & Blockchain<br>💬 Ask me about MERN, Django, System Design, or scaling APIs<br>⚡ Fun Fact: I turn coffee ☕ into code faster than CI/CD pipelines!
 
 
 ## 🌐 Socials:
